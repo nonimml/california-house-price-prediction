@@ -43,9 +43,6 @@ The Random Forest explains about 77% of the variation in prices and is off by ro
 - Inland neighborhoods are much cheaper than coastal ones; the map plot shows high prices hugging the coast.
 - Prices are capped at $500,001 in the raw data, so those rows were removed.
 
-## How to run
-See [RUN_GUIDE.md](RUN_GUIDE.md).
-
 ## Limitations and next steps
 - The data is from 1990, so the model says nothing about current prices.
 - Removing capped rows means the model is not trained on the most expensive areas.
