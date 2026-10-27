@@ -49,4 +49,4 @@ The Random Forest explains about 77% of the variation in prices and is off by ro
 - Next: hyperparameter tuning with cross-validation, Gradient Boosting, and a small Streamlit app.
 
 ## Author
-Your name | your GitHub link
+Nonim | https://github.com/nonimml
